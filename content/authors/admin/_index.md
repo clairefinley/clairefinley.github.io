@@ -167,6 +167,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About Me-- this website is currently in development! Please check back later
 
 I am a graduate student at The University of Texas at Austin, pursuing my PhD in Astronomy. I study accreting exoplanets and circumplanetary disks from an observational perspective. As an undergraduate I conducted research through an OSTEM internship at NASA GSFC, studying the chemical composition of comets, and through an REU at NRAO/GBO researching star formation in bright-rimmed clouds.
