@@ -51,8 +51,8 @@ interests: ''
 education:
   - area: PhD Astronomy (in progress)
     institution: The University of Texas at Austin
-    date_start: 2023-08
-    date_end: ''
+    date_start: 2023-08-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
