@@ -31,20 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: 'mailto:cfinley@utexas.edu'
+    label: Email Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/claire-finley-1788731bb/ 
+  - icon: academicons/ads
+    url: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9884-9584&sort=date%20desc%2C%20bibcode%20desc&p_=0 
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9884-9584
 
 interests: ''
 
@@ -130,10 +124,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: French
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
