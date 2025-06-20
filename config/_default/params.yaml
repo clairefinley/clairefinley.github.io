@@ -30,10 +30,10 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar-simple"
+    blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: false
+    show_theme_chooser: false 
     logo:
       text: "Claire Finley"
 
