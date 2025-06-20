@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/email
+  - icon: custom/emailnew
     url: 'mailto:cfinley@utexas.edu'
     label: Email Me
   - icon: brands/linkedin
