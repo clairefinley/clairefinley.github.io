@@ -161,4 +161,4 @@ awards:
 
 ## This website is currently in development! Please check back later
 
-I am a graduate student at The University of Texas at Austin, pursuing my PhD in Astronomy. I study accreting exoplanets and circumplanetary disks from an observational perspective. As an undergraduate I conducted research through an OSTEM internship at NASA GSFC, studying the chemical composition of comets, and through an REU at NRAO/GBO researching star formation in bright-rimmed clouds.
+I am an incoming third-year graduate student at The University of Texas at Austin, advised by Prof. Brendan Bowler (The University of California, Santa Barbara). My research focuses on the synthesis of the accretion and circumplanetary disk properties of wide orbit, young, accreting giant planets. Please reach out via email with any quesions!
