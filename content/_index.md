@@ -35,7 +35,7 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       text: |-
-        I am a graduate student at The University of Texas at Austin, pursuing my PhD in Astronomy. I study accreting exoplanets and circumplanetary disks from an observational perspective. As an undergraduate I conducted research through an OSTEM internship at NASA GSFC, studying the chemical composition of comets, and through an REU at NRAO/GBO researching star formation in bright-rimmed clouds. Please feel free to reach out to me via email.
+        My graduate research focuses on the accretion and circumplanetary disk properties of wide orbit giant planets from an observational perspective. As an undergraduate I conducted research through an OSTEM internship at NASA GSFC, studying the chemical composition of comets, and through an REU at NRAO/GBO researching star formation in bright-rimmed clouds. Please feel free to reach out to me via email.
     design:
       columns: '1'
   - block: collection
