@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications-- this site is in progress, please check back later
+      title: This site is in progress, please check back later
       filters:
         folders:
           - publication
