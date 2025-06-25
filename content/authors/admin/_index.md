@@ -161,4 +161,4 @@ awards:
 
 ## Hi, my name is Claire Finley
 
-I am an incoming third-year graduate student at The University of Texas at Austin, advised by Prof. Brendan Bowler (The University of California, Santa Barbara). My research focuses on the synthesis of the accretion and circumplanetary disk properties of wide orbit, young, accreting giant planets. Please reach out via email with any quesions!
+I am an incoming third-year graduate student at The University of Texas at Austin, advised by Prof. Brendan Bowler (The University of California, Santa Barbara). My research focuses on the synthesis of the accretion and circumplanetary disk properties of wide orbit, young, accreting giant planets. Please feel free to reach out to me via email if you have questions about my work or would like to discussion a potential collaboration.
