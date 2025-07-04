@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: static/uploads/resume.pdf 
+        url: static/uploads/Finley CV.pdf 
     design:
       css_class: light
       background:
