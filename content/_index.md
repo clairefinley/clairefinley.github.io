@@ -35,7 +35,7 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       text: |-
-        My research focuses on synthesizing accretion properties in the UV and circumplanetary disk properties in the mid-infrared of wide orbit giant planets from an observational perspective. As an undergraduate I conducted research through an OSTEM internship at NASA GSFC, studying the chemical composition of comets, and through an REU at NRAO/GBO researching star formation in bright-rimmed clouds.
+        My research broadly aims to answer the question of giant planet formation by constraining the timescales and mechanisms by which these objects accrete their mass. I am currently leading an effort to synthesize accretion properties in the UV and circumplanetary disk properties in the mid-infrared to characterize a population of wide orbit gas giants. This unique combination of direct imaging from the Hubble Space Telescope and the James Webb Space Telescope provides insight as to how much mass these planets are gaining and what the structures of their surrounding circumplanetary disks may be.
     design:
       columns: '1'
   - block: collection

@@ -161,4 +161,4 @@ awards:
 
 ## Hi, I'm Claire Finley
 
-I am a third-year graduate student at The University of Texas at Austin, advised by Prof. Brendan Bowler (The University of California, Santa Barbara). I am broadly interested in the question of giant planet formation. Please feel free to reach out to me via email if you have questions about my work or would like to discussion a potential collaboration.
+I am a third-year graduate student at The University of Texas at Austin, advised by Prof. Brendan Bowler (The University of California, Santa Barbara). My research utilizes multi-wavelength direct imaging to study giant planet formation. Please feel free to reach out to me via email if you have questions about my work or would like to discussion a potential collaboration.
