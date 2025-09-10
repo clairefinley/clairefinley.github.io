@@ -35,7 +35,7 @@ sections:
       title: 'Research Interests'
       subtitle: ''
       text: |-
-        My research focuses on the accretion and circumplanetary disk properties of wide orbit giant planets from an observational perspective. As an undergraduate I conducted research through an OSTEM internship at NASA GSFC, studying the chemical composition of comets, and through an REU at NRAO/GBO researching star formation in bright-rimmed clouds.
+        My research focuses on synthesizing accretion properties in the UV and circumplanetary disk properties in the mid-infrared of wide orbit giant planets from an observational perspective. As an undergraduate I conducted research through an OSTEM internship at NASA GSFC, studying the chemical composition of comets, and through an REU at NRAO/GBO researching star formation in bright-rimmed clouds.
     design:
       columns: '1'
   - block: collection
