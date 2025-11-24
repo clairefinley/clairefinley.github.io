@@ -108,7 +108,7 @@ awards:
       for Undergraduate Research
     date: '2023-04-01'
     awarder: Villanova Department of Astrophysics and Planetary Science
-    icon: villanova
+    icon: custom/emailnew
     summary: |
       The Jason A. Cardelli Memorial Award for Undergraduate Research is presented to a graduating Astronomy and Astrophysics student whose body of undergraduate research exhibits particularly high standards of independence, originality and quality. The award is named for former Departmental faculty member Jason A. Cardelli, PhD (1955-1996).
   - title: Blockchain Fundamentals
