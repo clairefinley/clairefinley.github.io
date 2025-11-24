@@ -107,13 +107,13 @@ awards:
   - title: Jason A. Cardelli Memorial Award for Undergraduate Research
     date: '2023-04'
     awarder: Villanova University Department of Astrophysics & Planetary Science
-    icon: ''
+    icon: coursera
     summary: |
       The Jason A. Cardelli Memorial Award for Undergraduate Research is presented to a graduating Astronomy and Astrophysics student whose body of undergraduate research exhibits particularly high standards of independence, originality and quality. The award is named for former Departmental faculty member Jason A. Cardelli, PhD (1955-1996).
   - title: Sigma Pi Sigma Physics Honor Society
     date: '2023-03'
     awarder: Villanova University Department of Physics
-    icon: ''
+    icon: edx
     summary: |
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
