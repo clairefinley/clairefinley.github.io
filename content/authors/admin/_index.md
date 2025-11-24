@@ -104,12 +104,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Jason A. Cardelli Memorial Award for Undergraduate Research
-    date: '2023-04'
-    awarder: Villanova University Department of Astrophysics & Planetary Science
-    icon: ''
-    summary: |
-      The Jason A. Cardelli Memorial Award for Undergraduate Research is presented to a graduating Astronomy and Astrophysics student whose body of undergraduate research exhibits particularly high standards of independence, originality and quality.
   - title: Sigma Pi Sigma Physics Honor Society
     date: '2023-03'
     awarder: edX
