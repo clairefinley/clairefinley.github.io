@@ -111,7 +111,7 @@ skills:
       - name: Rock Climbing
         description: ''
         percent: 60
-        icon: climbing.svg
+        icon: climbing
       - name: Reading
         description: ''
         percent: 100
