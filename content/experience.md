@@ -26,8 +26,4 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: resume-new
-    content:
-      title: Extra
-      username: admin
 ---
