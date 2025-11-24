@@ -48,7 +48,7 @@ education:
     date_start: 2023-08-01 
     date_end: ''
     summary: |
-     Expected to receive Master's of Arts (MA) Astronomy in December 2025.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -68,7 +68,7 @@ work:
     company_name: The University of Texas at Austin
     company_url: ''
     company_logo: ''
-    date_start: 2023-08
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
