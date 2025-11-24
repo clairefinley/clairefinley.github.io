@@ -75,7 +75,7 @@ work:
     summary: |2-
       My research involves jointly constraining accretion rates and circumplanetary disk properties of wide planets, utilizing imaging from the UV to the mid-infrared to characterize these planets and their disks
   - position: OSTEM Summer Intern (Code 693)
-    company_name: NASA Goddard 
+    company_name: NASA Goddard Space Flight Center
     company_url: ''
     company_logo: ''
     date_start: 2022-05-01
