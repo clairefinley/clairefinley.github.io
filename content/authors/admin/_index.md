@@ -90,7 +90,6 @@ work:
     date_end: 2021-08-01
     summary: |2-
       Conducted research in conjunction with the National Radio Astronomy Observatory and the Green Bank Observatory concluding with the publication of a research paper in August. My project focused on examining star formation in bright-rimmed clouds (BRCs) through analysis of CO and ammonia molecules to determine possible correlation between star formation in BRCs and photoionization shocks from nearby stars.
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 languages:
