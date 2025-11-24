@@ -49,6 +49,7 @@ education:
     date_end: ''
     summary: |
       I expect to obtain my Master's of the Arts (MA) in Astronomy in December 2025.
+      I will be continuing my studies as a PhD candidate at the University of California, Santa Barbara beginning May 2026.
   - area: B.S. Astronomy and Astrophysics
     institution: Villanova University
     date_start: 2019-08-01
@@ -57,9 +58,10 @@ education:
       GPA: 3.7/4.0
 
       Courses included:
-      - Astronomy: xyz, xyz
-      - Physics: xyz, xyz
-      - Math: xyz, xyz
+      - Astronomy: Astrobiology, Planets and Life; Astrodynamics: Kepler and Beyond; Galactic Astronomy; Introduction to Astrophysics; Observational Laboratory I and II; Solar System Astronomy; Sun and Stars; The Principle of Scientific Modeling; Undergraduate Research I and II; Understanding our Universe (Cosmology)
+      - Physics: Computational Physics Laboratory I and II; Electricity and Magnetism I; General Relativity; Mathematical Physics I; Mechanics I; Modern Physics + Lab; Quantum Mechanics; University Physics: Electricity and Magnetism + Lab; University Physics: Mechanics + Lab; University Physics: Thermodynamics + Lab
+      - Math: Calculus I; Calculus II; Calculus III; Differential Equations with Linear Algebra
+      - Other: Software Development and Systems
 work:
   - position: Graduate Research Assistant
     company_name: The University of Texas at Austin
