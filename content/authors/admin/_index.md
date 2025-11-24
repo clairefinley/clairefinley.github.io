@@ -48,10 +48,7 @@ education:
     date_start: 2023-08-01 
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      I expect to obtain my Master's of the Arts (MA) in Astronomy in December 2025.
   - area: B.S. Astronomy and Astrophysics
     institution: Villanova University
     date_start: 2019-08-01
@@ -60,9 +57,9 @@ education:
       GPA: 3.7/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Astronomy: xyz, xyz
+      - Physics: xyz, xyz
+      - Math: xyz, xyz
 work:
   - position: Graduate Research Assistant
     company_name: The University of Texas at Austin
@@ -111,11 +108,11 @@ skills:
       - name: Rock Climbing
         description: ''
         percent: 60
-        icon: climbing
+        icon: custom/climbing
       - name: Reading
         description: ''
         percent: 100
-        icon: book
+        icon: custom/book
       - name: Photography
         description: ''
         percent: 80
