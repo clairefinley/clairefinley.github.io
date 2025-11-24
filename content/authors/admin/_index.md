@@ -113,14 +113,11 @@ awards:
   - title: Sigma Pi Sigma Physics Honor Society
     date: '2023-03-01'
     awarder: Villanova Department of Physics
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+  - title: John Mather Nobel Scholarship
+    date: '2022-07-01'
+    awarder: National Space Grant Foundation
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The John Mather Nobel Scholarship Program was established in 2008 by the John and Jane Mather Foundation for Science and the Arts. Students must have demonstrated high academic achievement, have a strong interest in space and Goddard Space Flight Center, be a rising undergraduate junior, senior or graduate student, and be currently holding a Goddard-based research internship. Selected students are recognized as John Mather Nobel Scholars and receive a $3,000 travel allowance towards the cost of presenting research papers at professional conferences.
 ---
 
 ## Hi, I'm Claire Finley
