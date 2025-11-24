@@ -48,7 +48,7 @@ education:
     date_start: 2023-08-01 
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+     Expected to receive Master's of Arts (MA) Astronomy in December 2025.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -64,11 +64,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Research Assistant
+    company_name: The University of Texas at Austin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-08
     date_end: ''
     summary: |2-
       Responsibilities include:
