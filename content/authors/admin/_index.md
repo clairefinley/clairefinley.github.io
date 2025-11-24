@@ -82,14 +82,14 @@ work:
     date_end: 2022-08-01
     summary: |2-
       Remote 10-week internship with NASA GSFC studying the composition of comet 41P/Tuttle–Giacobini–Kresák in the infrared band. Resulted in the writing of a peer-reviewed paper (in prep.) as well as an oral presentation at the 54th Meeting of the Division for Planetary Sciences in October 2022.
-  - position: OSTEM Summer Intern (Code 693)
-    company_name: NASA Goddard Space Flight Center
+  - position: Research Experience for Undergraduates (REU)
+    company_name: National Radio Astronomy Observatory
     company_url: ''
     company_logo: ''
-    date_start: 2022-05-01
-    date_end: 2022-08-01
+    date_start: 2021-05-01
+    date_end: 2021-08-01
     summary: |2-
-      Remote 10-week internship with NASA GSFC studying the composition of comet 41P/Tuttle–Giacobini–Kresák in the infrared band. Resulted in the writing of a peer-reviewed paper (in prep.) as well as an oral presentation at the 54th Meeting of the Division for Planetary Sciences in October 2022.
+      Conducted research in conjunction with the National Radio Astronomy Observatory and the Green Bank Observatory concluding with the publication of a research paper in August. Project focused on examining star formation in bright-rimmed clouds (BRCs) through analysis of CO and ammonia molecules to determine possible correlation between star formation in BRCs and photoionization shocks from nearby stars.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
