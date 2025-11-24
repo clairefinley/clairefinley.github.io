@@ -73,10 +73,7 @@ work:
     date_start: 2023-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      My research involves jointly constraining accretion rates and circumplanetary disk properties of wide planets, utilizing imaging from the UV to the mid-infrared to characterize these planets and their disks
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
