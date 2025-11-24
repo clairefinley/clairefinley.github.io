@@ -104,7 +104,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Jason A. Cardelli Memorial Award for Undergraduate Research
+  - title: Jason A. Cardelli Award for Undergraduate Research
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-04-011'
     awarder: Coursera
