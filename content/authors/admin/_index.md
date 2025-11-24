@@ -105,6 +105,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Jason A. Cardelli Memorial Award for Undergraduate Research
+    url: 
     date: '2023-04'
     awarder: Coursera
     icon: coursera
