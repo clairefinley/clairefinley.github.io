@@ -74,17 +74,14 @@ work:
     date_end: ''
     summary: |2-
       My research involves jointly constraining accretion rates and circumplanetary disk properties of wide planets, utilizing imaging from the UV to the mid-infrared to characterize these planets and their disks
-  - position: Backend Software Engineer
-    company_name: X
+  - position: OSTEM Summer Intern (Code 693)
+    company_name: NASA Goddard Space Flight Center
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-05-01
+    date_end: 2022-18-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Remote 10-week internship with NASA GSFC studying the composition of comet 41P/Tuttle–Giacobini–Kresák in the infrared band. Resulted in the writing of a peer-reviewed paper (in prep.) as well as an oral presentation at the 54th Meeting of the Division for Planetary Sciences in October 2022.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
