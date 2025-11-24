@@ -68,7 +68,7 @@ work:
     company_name: The University of Texas at Austin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -96,11 +96,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Analysis
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Observing
         description: ''
         percent: 40
         icon: circle-stack
@@ -108,14 +108,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Rock Climbing
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: climbing.svg
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
+        icon: book
       - name: Photography
         description: ''
         percent: 80
@@ -126,6 +126,8 @@ languages:
     percent: 100
   - name: French
     percent: 75
+  - name: Korean
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
