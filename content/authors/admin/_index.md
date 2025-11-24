@@ -86,38 +86,6 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Analysis
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Observing
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Rock Climbing
-        description: ''
-        percent: 60
-        icon: custom/climbing
-      - name: Reading
-        description: ''
-        percent: 100
-        icon: custom/book
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
 languages:
   - name: English
     percent: 100
