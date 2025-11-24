@@ -118,6 +118,9 @@ awards:
     awarder: National Space Grant Foundation
     summary: |
       The John Mather Nobel Scholarship Program was established in 2008 by the John and Jane Mather Foundation for Science and the Arts. Students must have demonstrated high academic achievement, have a strong interest in space and Goddard Space Flight Center, be a rising undergraduate junior, senior or graduate student, and be currently holding a Goddard-based research internship. Selected students are recognized as John Mather Nobel Scholars and receive a $3,000 travel allowance towards the cost of presenting research papers at professional conferences.
+  - title: Certificate of Achievement in Ethical Leadership
+    date: '2020-11-01'
+    awarder: Villanova Leadership Program
 ---
 
 ## Hi, I'm Claire Finley
