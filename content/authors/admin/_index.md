@@ -108,19 +108,11 @@ awards:
       for Undergraduate Research
     date: '2023-04-01'
     awarder: Villanova Department of Astrophysics and Planetary Science
-    icon: villanova.svg
     summary: |
       The Jason A. Cardelli Memorial Award for Undergraduate Research is presented to a graduating Astronomy and Astrophysics student whose body of undergraduate research exhibits particularly high standards of independence, originality and quality. The award is named for former Departmental faculty member Jason A. Cardelli, PhD (1955-1996).
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: Sigma Pi Sigma Physics Honor Society
+    date: '2023-03-01'
+    awarder: Villanova Department of Physics
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
