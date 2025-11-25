@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Synthesizing Accretion and Circumplanetary Disk Properties of a Wide Orbit Planet with HST and JWST
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 51 Peg b 30th Anniversary: Cool Giant Planets and Their Systems
+event_url: https://ohp2025.sciencesconf.org/
 
 location: Hugo Blox Builder HQ
 address:
@@ -17,8 +17,8 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-08-09'
-date_end: '2025-08-09'
+date: '2025-10-09'
+date_end: '2025-10-09'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
