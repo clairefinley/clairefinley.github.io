@@ -1,7 +1,8 @@
 ---
-title: Synthesizing Accretion and Circumplanetary Disk Properties of a Wide Orbit Planet with HST and JWST
+title: Synthesizing Accretion and Circumplanetary Disk 
+  Properties of a Wide Orbit Planet with HST and JWST
 
-event: 51 Peg b 30th Anniversary: Cool Giant Planets and Their Systems
+event: 51 Peg b 30th Anniversary, Cool Giant Planets and Their Systems
 event_url: https://ohp2025.sciencesconf.org/
 
 location: Hugo Blox Builder HQ
