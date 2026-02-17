@@ -133,4 +133,11 @@ blockquote {
       color: var(--global-danger-block-title);
     }
   }
+  body {
+  font-family: 'Inter', sans-serif;  // or your chosen body font
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;  // or your chosen heading font
+}
 }
