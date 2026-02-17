@@ -1,8 +1,13 @@
 # Customize
 
-Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
+Here we will give you some tips on how to customize the website. One important thing to note is that **ALL**
+the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is
+automatically overwritten every time you make a change to the main branch.
 
-> **Note for users without coding experience:** You do **not** need to understand the technology stack or have any coding background to create and customize your own website with al-folio. This template was specifically designed to be accessible to academics and researchers from all backgrounds. You can create a fully functional website by simply editing configuration files and adding content in Markdown, no coding required.
+> **Note for users without coding experience:** You do **not** need to understand the technology stack or have
+> any coding background to create and customize your own website with al-folio. This template was specifically
+> designed to be accessible to academics and researchers from all backgrounds. You can create a fully functional
+> website by simply editing configuration files and adding content in Markdown, no coding required.
 
 <!--ts-->
 
@@ -62,7 +67,7 @@ Here we will give you some tips on how to customize the website. One important t
     - [How it works](#how-it-works)
     - [Configuration](#configuration-1)
     - [Disable related posts for a specific post](#disable-related-posts-for-a-specific-post)
-    - [Additional configuration in _config.yml](#additional-configuration-in-_configyml)
+    - [Additional configuration in \_config.yml](#additional-configuration-in-_configyml)
   - [Managing publication display](#managing-publication-display)
   - [Adding a Google Calendar](#adding-a-google-calendar)
     - [Basic usage](#basic-usage)
@@ -142,11 +147,15 @@ The project is structured as follows, focusing on the main components that you w
 
 ## Configuration
 
-The configuration file [\_config.yml](_config.yml) contains the main configuration of the website. Most of the settings is self-explanatory and we also tried to add as much comments as possible. If you have any questions, please check if it was not already answered in the [FAQ](FAQ.md).
+The configuration file [\_config.yml](_config.yml) contains the main configuration of the website. Most of the
+settings is self-explanatory and we also tried to add as much comments as possible. If you have any questions,
+please check if it was not already answered in the [FAQ](FAQ.md).
 
 > Note that the `url` and `baseurl` settings are used to generate the links of the website, as explained in the [install instructions](INSTALL.md).
 
-All changes made to this file are only visible after you rebuild the website. That means that you need to run `bundle exec jekyll serve` again if you are running the website locally or push your changes to GitHub if you are using GitHub Pages. All other changes are visible immediately, you only need to refresh the page.
+All changes made to this file are only visible after you rebuild the website. That means that you need to run
+`bundle exec jekyll serve` again if you are running the website locally or push your changes to GitHub if you
+are using GitHub Pages. All other changes are visible immediately, you only need to refresh the page.
 
 If changes don't appear after refreshing, try:
 
@@ -160,7 +169,8 @@ If changes don't appear after refreshing, try:
 
 ## GitHub Copilot Customization Agent
 
-This repository includes a specialized GitHub Copilot agent (`.github/agents/customize.agent.md`) designed to help you customize your al-folio website. The agent acts as an expert assistant that can:
+This repository includes a specialized GitHub Copilot agent (`.github/agents/customize.agent.md`) designed to
+help you customize your al-folio website. The agent acts as an expert assistant that can:
 
 - Guide you through common customization tasks step-by-step
 - Modify configuration files, add content, and update your website
@@ -188,7 +198,8 @@ To use the customization agent:
 
 1. Ensure you have a [GitHub Copilot](https://github.com/features/copilot) subscription
 2. Open your repository in an editor with GitHub Copilot support (such as VS Code with the GitHub Copilot extension)
-3. Interact with GitHub Copilot and ask questions or request changes. For more information, check [Using custom agents in your IDE](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/use-copilot-agents/coding-agent/create-custom-agents#using-custom-agents-in-your-ide)
+3. Interact with GitHub Copilot and ask questions or request changes. For more information, check
+   [Using custom agents in your IDE](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/use-copilot-agents/coding-agent/create-custom-agents#using-custom-agents-in-your-ide)
 4. The agent will guide you through the customization process and can make changes directly to your files
 
 For example, you can ask:
@@ -202,10 +213,12 @@ The agent is designed to be patient and helpful, explaining each step clearly so
 
 ### Important: Verify Agent Output
 
-**The customization agent can make mistakes or produce incorrect information.** Always review and verify the agent's suggestions and changes before applying them to your repository:
+**The customization agent can make mistakes or produce incorrect information.** Always review and verify the
+agent's suggestions and changes before applying them to your repository:
 
 - **Review all changes** – Before applying any modifications, carefully read what the agent suggests and ensure it makes sense for your needs
-- **Test locally first** – Before pushing changes to GitHub, test them locally using Docker or native setup (see the [Installation instructions](INSTALL.md))
+- **Test locally first** – Before pushing changes to GitHub, test them locally using Docker or native setup
+  (see the [Installation instructions](INSTALL.md))
 - **Check syntax** – Make sure any YAML, Markdown, or BibTeX files have correct syntax. Incorrect syntax can break your website
 - **Verify configuration** – If the agent modifies `_config.yml` or other configuration files, check that the changes align with your intentions
 - **Preview on your site** – Run your site locally and navigate through it to ensure everything displays correctly and works as expected
@@ -218,19 +231,25 @@ The agent is designed to be patient and helpful, explaining each step clearly so
 - If the agent creates a new blog post or page, verify the frontmatter (the metadata at the top) is correct
 - If the agent suggests changes to theme colors or styling, preview your site locally to ensure the changes look as intended
 
-> **Note:** The customization agent requires GitHub Copilot to be enabled. For more information about GitHub Copilot and its features, see the [GitHub Copilot documentation](https://docs.github.com/en/copilot).
+> **Note:** The customization agent requires GitHub Copilot to be enabled. For more information about GitHub
+> Copilot and its features, see the [GitHub Copilot documentation](https://docs.github.com/en/copilot).
 
 ## Understanding the Codebase with Code Wiki and DeepWiki
 
-If you're interested in learning more about how al-folio works under the hood, or want to understand specific aspects of the codebase for deeper customization, you can use Code Wiki and DeepWiki as supplementary resources.
+If you're interested in learning more about how al-folio works under the hood, or want to understand specific
+aspects of the codebase for deeper customization, you can use Code Wiki and DeepWiki as supplementary resources.
 
 ### What are these tools?
 
 **Code Wiki** and **DeepWiki** are AI-powered tools that help you explore and understand GitHub repositories through interactive documentation:
 
-- **Code Wiki** (powered by Google Gemini) generates interactive documentation from the repository code. You can browse the project structure, search for specific functions or modules, view architecture diagrams, and understand how different components interact.
+- **Code Wiki** (powered by Google Gemini) generates interactive documentation from the repository code. You can
+  browse the project structure, search for specific functions or modules, view architecture diagrams, and understand
+  how different components interact.
 
-- **DeepWiki** provides an AI chat interface where you can ask natural language questions about the codebase, similar to having an engineer available 24/7. You can ask how features work, search for code patterns, or get explanations of complex logic.
+- **DeepWiki** provides an AI chat interface where you can ask natural language questions about the codebase,
+  similar to having an engineer available 24/7. You can ask how features work, search for code patterns, or get
+  explanations of complex logic.
 
 ### When to use them
 
@@ -255,14 +274,20 @@ These tools are best used for:
 
 ## Technology Stack
 
-Understanding al-folio's technology stack will help you better customize and extend the theme. This section provides an overview of the key technologies and frameworks used in the project.
+Understanding al-folio's technology stack will help you better customize and extend the theme. This section
+provides an overview of the key technologies and frameworks used in the project.
 
 ### Frontend
 
-- **Markdown**: Content is written in Markdown format for pages, blog posts, and collections. This makes it easy to create and maintain content without worrying about HTML.
-- **Liquid templating**: [Liquid](https://shopify.github.io/liquid/) is used for dynamic template generation. Liquid templates are used in the `_layouts/` and `_includes/` directories to define how your content should be displayed.
+- **Markdown**: Content is written in Markdown format for pages, blog posts, and collections. This makes it easy
+  to create and maintain content without worrying about HTML.
+- **Liquid templating**: [Liquid](https://shopify.github.io/liquid/) is used for dynamic template generation.
+  Liquid templates are used in the `_layouts/` and `_includes/` directories to define how your content should be
+  displayed.
 - **HTML & CSS**: The theme uses semantic HTML5 and modern CSS for styling and layout.
-- **SCSS**: Stylesheets are written in [SCSS (Sass)](https://sass-lang.com/), a CSS preprocessor that provides variables, mixins, and functions for more maintainable styling. SCSS files are located in `_sass/` and compiled to CSS during the build process.
+- **SCSS**: Stylesheets are written in [SCSS (Sass)](https://sass-lang.com/), a CSS preprocessor that provides
+  variables, mixins, and functions for more maintainable styling. SCSS files are located in `_sass/` and compiled
+  to CSS during the build process.
 - **Bootstrap**: [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/) is used for responsive grid layout and base styling components.
 - **JavaScript**: Minimal JavaScript is used for interactive features like the dark mode toggle, search functionality, and dynamic content rendering.
 - **MathJax**: For rendering mathematical equations in LaTeX format on your pages and blog posts.
@@ -271,7 +296,8 @@ Understanding al-folio's technology stack will help you better customize and ext
 
 ### Backend
 
-- **Jekyll 4.x**: [Jekyll](https://jekyllrb.com/) is a static site generator written in Ruby that transforms your Markdown files and templates into a static website. Jekyll is used to:
+- **Jekyll 4.x**: [Jekyll](https://jekyllrb.com/) is a static site generator written in Ruby that transforms your
+  Markdown files and templates into a static website. Jekyll is used to:
   - Convert Markdown files to HTML
   - Process Liquid templates
   - Manage collections (posts, projects, news, books, etc.)
@@ -324,7 +350,9 @@ Your CV can be created using one of two formats. Choose the format that works be
 
 ### RenderCV Format (Recommended)
 
-[`_data/cv.yml`](_data/cv.yml) uses the [RenderCV](https://rendercv.com/) YAML format, which is human-readable and designed specifically for generating professional resumes. This format also enables optional automatic PDF generation via GitHub Actions.
+[`_data/cv.yml`](_data/cv.yml) uses the [RenderCV](https://rendercv.com/) YAML format, which is human-readable
+and designed specifically for generating professional resumes. This format also enables optional automatic PDF
+generation via GitHub Actions.
 
 **If you choose this format:**
 
@@ -337,7 +365,8 @@ Your CV can be created using one of two formats. Choose the format that works be
 
 ### JSONResume Format
 
-[`assets/json/resume.json`](assets/json/resume.json) uses the [JSONResume](https://jsonresume.org/) standard format, which is compatible with other tools and services.
+[`assets/json/resume.json`](assets/json/resume.json) uses the [JSONResume](https://jsonresume.org/) standard
+format, which is compatible with other tools and services.
 
 **If you choose this format:**
 
@@ -346,7 +375,9 @@ Your CV can be created using one of two formats. Choose the format that works be
 
 ### Using Both Formats Simultaneously
 
-You can keep both [`_data/cv.yml`](_data/cv.yml) and [`assets/json/resume.json`](assets/json/resume.json) in your repository and switch between them on your website by setting the `cv_format` frontmatter variable in [`_pages/cv.md`](_pages/cv.md):
+You can keep both [`_data/cv.yml`](_data/cv.yml) and [`assets/json/resume.json`](assets/json/resume.json) in
+your repository and switch between them on your website by setting the `cv_format` frontmatter variable in
+[`_pages/cv.md`](_pages/cv.md):
 
 ```yaml
 ---
@@ -359,7 +390,9 @@ Change `rendercv` to `jsonresume` to display the JSONResume format instead.
 
 ### Automatic PDF Generation (RenderCV only)
 
-If you use the RenderCV format, a GitHub Actions workflow can automatically generate a PDF version of your CV whenever you push changes to [`_data/cv.yml`](_data/cv.yml). The PDF is saved to `assets/rendercv/rendercv_output/`.
+If you use the RenderCV format, a GitHub Actions workflow can automatically generate a PDF version of your CV
+whenever you push changes to [`_data/cv.yml`](_data/cv.yml). The PDF is saved to
+`assets/rendercv/rendercv_output/`.
 
 **To link the auto-generated PDF to your CV page:**
 
@@ -373,7 +406,8 @@ cv_format: rendercv
 ---
 ```
 
-This will add a download button on your CV page that links to the PDF. (The exact filename depends on your RenderCV settings—check the output directory after the first workflow run to see the generated PDF name.)
+This will add a download button on your CV page that links to the PDF. (The exact filename depends on your
+RenderCV settings—check the output directory after the first workflow run to see the generated PDF name.)
 
 **To disable automatic PDF generation:**
 
@@ -381,7 +415,8 @@ Delete or comment out the [`.github/workflows/render-cv.yml`](.github/workflows/
 
 ## Modifying the user and repository information
 
-The user and repository information is defined in [\_data/repositories.yml](_data/repositories.yml). You can add as many users and repositories as you want. Both informations are used in the `repositories` section.
+The user and repository information is defined in [\_data/repositories.yml](_data/repositories.yml). You can add
+as many users and repositories as you want. Both informations are used in the `repositories` section.
 
 ### Configuring external service URLs
 
@@ -390,7 +425,9 @@ The repository page uses external services to display GitHub statistics and trop
 - `github-readme-stats.vercel.app` for user stats and repository cards
 - `github-profile-trophy.vercel.app` for GitHub profile trophies
 
-**Important:** These default services are hosted by third parties and may not be available 100% of the time. For better reliability, privacy, and customization, you can self-host these services and configure your website to use your own instances.
+**Important:** These default services are hosted by third parties and may not be available 100% of the time. For
+better reliability, privacy, and customization, you can self-host these services and configure your website to use
+your own instances.
 
 To use your own instances of these services, configure the URLs in [\_config.yml](_config.yml):
 
