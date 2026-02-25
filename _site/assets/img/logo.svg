@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 100 100">
+  <g fill="none" stroke="white" stroke-width="8" stroke-linecap="butt">
+    <!-- top bar -->
+    <line x1="20" y1="25" x2="55" y2="25" />
+    <!-- bottom bar -->
+    <line x1="45" y1="75" x2="80" y2="75" />
+  </g>
+
+  <text x="20" y="65"
+        font-family="Helvetica, Arial, sans-serif"
+        font-size="48"
+        fill="white"
+        font-weight="600"
+        letter-spacing="-1">
+    cf
+  </text>
+</svg>
