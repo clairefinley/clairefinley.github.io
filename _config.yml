@@ -39,6 +39,9 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.svg
 
+# The icon shown in the browser tab.
+favicon:               /assets/icons/favicon-planet.svg
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
