@@ -57,6 +57,17 @@
   content: "\e902";
 }
 
+article.page.mb6:has(.homepage-intro) > header .page-title {
+  font-size: 3rem;
+  line-height: 1.15;
+}
+
+@media (max-width: 48em) {
+  article.page.mb6:has(.homepage-intro) > header .page-title {
+    font-size: 2.2rem;
+  }
+}
+
 .homepage-intro {
   display: flex;
   gap: 1.5rem;
