@@ -12,4 +12,16 @@
 <loc>http://localhost:4000/posts/</loc>
 <lastmod>2026-02-24T23:50:22+00:00</lastmod>
 </url>
+<url>
+<loc>http://localhost:4000/publications/</loc>
+<lastmod>2026-02-26T21:46:05+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research-interests/</loc>
+<lastmod>2026-02-26T21:45:55+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/talks/</loc>
+<lastmod>2026-02-26T21:46:01+00:00</lastmod>
+</url>
 </urlset>

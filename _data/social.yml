@@ -6,6 +6,9 @@ email:
 cv:
   name: CV
   icon: icon-cv
+google-scholar:
+  name: Google Scholar
+  icon: icon-google-scholar
 amazon:
   name: Amazon
   icon: icon-amazon

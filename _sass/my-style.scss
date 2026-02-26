@@ -17,7 +17,8 @@
   .icon-cv,
   .icon-email-png,
   .icon-orcid,
-  .icon-linkedin-png {
+  .icon-linkedin-png,
+  .icon-google-scholar {
     width: 2rem;
     height: 2rem;
     display: inline-block;
@@ -45,5 +46,41 @@
 
   .icon-linkedin-png {
     background-image: url('/assets/icons/linkedin.png');
+  }
+
+  .icon-google-scholar {
+    background-image: url('/assets/icons/google_scholar.png');
+  }
+}
+
+#_menu .icon-menu::before {
+  content: "\e902";
+}
+
+.homepage-intro {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.homepage-intro-image {
+  flex: 0 0 auto;
+}
+
+.homepage-intro-text {
+  flex: 1 1 auto;
+}
+
+.homepage-intro-text h2 {
+  margin-top: 0;
+}
+
+@media (max-width: 48em) {
+  .homepage-intro {
+    display: block;
+  }
+
+  .homepage-intro-image {
+    margin-bottom: 1rem;
   }
 }
