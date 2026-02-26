@@ -14,14 +14,31 @@
 }
 
 .sidebar-social {
+  ul {
+    display: flex;
+    align-items: center;
+    gap: .35rem;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    padding: .1rem;
+  }
+
   .icon-cv,
   .icon-email-png,
   .icon-orcid,
   .icon-linkedin-png {
-    width: 2rem;
-    height: 2rem;
-    display: inline-block;
-    vertical-align: middle;
+    width: 2.25rem;
+    height: 2.25rem;
+    display: block;
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
