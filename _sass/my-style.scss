@@ -12,3 +12,38 @@
     margin: 1rem 0;
   }
 }
+
+.sidebar-social {
+  .icon-cv,
+  .icon-email-png,
+  .icon-orcid,
+  .icon-linkedin-png {
+    width: 1.8rem;
+    height: 1.8rem;
+    display: inline-block;
+    vertical-align: middle;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    &::before {
+      content: '';
+    }
+  }
+
+  .icon-cv {
+    background-image: url('/assets/icons/cv_png.png');
+  }
+
+  .icon-email-png {
+    background-image: url('/assets/icons/email.png');
+  }
+
+  .icon-orcid {
+    background-image: url('/assets/icons/orcid.svg');
+  }
+
+  .icon-linkedin-png {
+    background-image: url('/assets/icons/linkedin.png');
+  }
+}

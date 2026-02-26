@@ -1,8 +1,11 @@
 # This file contains meta data for various social media sites
 email:
   name: Email
-  icon: icon-mail
+  icon: icon-email-png
   prepend: 'mailto:'
+cv:
+  name: CV
+  icon: icon-cv
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -166,8 +169,12 @@ wikipedia:
   icon: icon-wikipedia
 linkedin:
   name: LinkedIn
-  icon: icon-linkedin2
+  icon: icon-linkedin-png
   prepend: "https://www.linkedin.com/in/"
+orcid:
+  name: ORCID
+  icon: icon-orcid
+  prepend: "https://orcid.org/"
 lastfm:
   name: Last.fm
   icon: icon-lastfm
