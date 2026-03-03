@@ -78,12 +78,25 @@ article.page.mb6:has(.homepage-intro) > header .page-title {
   flex: 0 0 auto;
 }
 
+.homepage-intro-image img {
+  display: block;
+  width: 280px;
+  height: auto;
+  max-width: 100%;
+}
+
 .homepage-intro-text {
   flex: 1 1 auto;
+  font-size: 1.06rem;
 }
 
 .homepage-intro-text h2 {
   margin-top: 0;
+}
+
+.homepage-intro-note {
+  font-weight: 700;
+  font-size: 1.08rem;
 }
 
 @media (max-width: 48em) {
@@ -93,5 +106,11 @@ article.page.mb6:has(.homepage-intro) > header .page-title {
 
   .homepage-intro-image {
     margin-bottom: 1rem;
+  }
+
+  .homepage-intro-image img {
+    width: min(100%, 16rem);
+    height: auto;
+    max-width: 100%;
   }
 }
