@@ -99,6 +99,76 @@ article.page.mb6:has(.homepage-intro) > header .page-title {
   font-size: 1.08rem;
 }
 
+.research-section {
+  display: block;
+}
+
+.research-section-media {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.research-section-image-block {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.research-section-image-block img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.research-section-image-block img[src$="crop.png"] {
+  object-fit: contain;
+}
+
+.research-section-image-credit {
+  margin-top: 0.5rem;
+  opacity: 0.75;
+  font-size: 0.88rem;
+  line-height: 1.3;
+}
+
+.research-section-content {
+  width: 100%;
+}
+
+.research-section-content > :first-child {
+  margin-top: 0;
+}
+
+.research-section-divider {
+  width: 100%;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.2;
+  margin: 1.5rem 0 0;
+}
+
+h2#summary {
+  margin-top: 0.35rem;
+}
+
+.research-section-divider--summary {
+  margin-top: 0.8rem;
+}
+
+.research-section-divider + h2 {
+  margin-top: 0.4rem;
+}
+
+h1[id] > .permalink,
+h2[id] > .permalink,
+h3[id] > .permalink,
+h4[id] > .permalink,
+h5[id] > .permalink,
+h6[id] > .permalink {
+  display: none !important;
+}
+
 @media (max-width: 48em) {
   .homepage-intro {
     display: block;
@@ -112,5 +182,9 @@ article.page.mb6:has(.homepage-intro) > header .page-title {
     width: min(100%, 16rem);
     height: auto;
     max-width: 100%;
+  }
+
+  .research-section-media {
+    margin-bottom: 1rem;
   }
 }
