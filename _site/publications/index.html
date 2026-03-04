@@ -35,8 +35,8 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
 <meta property="og:title" content="Publications" />
 <meta name="author" content="<Claire> <Finley>" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Peer-reviewed publications and preprints." />
-<meta property="og:description" content="Peer-reviewed publications and preprints." />
+<meta name="description" content="Peer-reviewed publications, ordered most-to-least recent." />
+<meta property="og:description" content="Peer-reviewed publications, ordered most-to-least recent." />
 <link rel="canonical" href="http://localhost:4000/publications/" />
 <meta property="og:url" content="http://localhost:4000/publications/" />
 <meta property="og:site_name" content="Claire Finley" />
@@ -44,7 +44,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Publications" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"<Claire> <Finley>"},"dateModified":"2026-02-26T22:22:58+00:00","description":"Peer-reviewed publications and preprints.","headline":"Publications","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/logo.svg"},"name":"<Claire> <Finley>"},"url":"http://localhost:4000/publications/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"<Claire> <Finley>"},"dateModified":"2026-02-26T22:22:58+00:00","description":"Peer-reviewed publications, ordered most-to-least recent.","headline":"Publications","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/logo.svg"},"name":"<Claire> <Finley>"},"url":"http://localhost:4000/publications/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -115,7 +115,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2026-03-03T22:39:41+00:00',
+    INDEX_KEY: 'index--2026-03-04T16:41:13+00:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -254,7 +254,7 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79, 177, 186, 0.
 
   
     <p class="note-sm" >
-      Peer-reviewed publications and preprints.
+      Peer-reviewed publications, ordered most-to-least recent.
 
     </p>
   
@@ -262,20 +262,33 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79, 177, 186, 0.
 
   </header>
 
-  <h2 id="publications">Publications</h2>
-
-<p>This page will list peer-reviewed papers and preprints.</p>
-
-<h3 id="example-format">Example format</h3>
+  <h2 id="first-authored">First-authored</h2>
 
 <ul>
-  <li>Finley, C., Coauthor, A., &amp; Coauthor, B. (Year). <em>Paper title</em>. Journal, Volume(Issue), Pages. [DOI]</li>
-  <li>Finley, C., Coauthor, A., et al. (Year). <em>Paper title</em>. Journal, Volume(Issue), Pages. [arXiv]</li>
+  <li><em>Ultraviolet Imaging of SR 12 c with HST/WFC3:</em> <img src="/assets/icons/tile%20comb.png" alt="SR 12 c paper thumbnail" class="pub-thumb pub-thumb--wide" loading="lazy" />
+ <em>Accretion and Variability of a Giant Planet at the End Stages of Growth</em> <br />
+  <strong><span style="text-decoration: underline;">Claire O. Finley</span></strong>, Brendan P. Bowler, Ya-Lin Wu, Adam L. Kraus, Yifan Zhou, Yuhiko Aoyama, William Best, Ian Czekala, Catherine C. Espaillat, Katherine B. Follette, Gregory J. Herczeg, Raquel A. Martinez, Connor E. Robinson, Quang H. Tran, and Kimberley Ward-Duong                                                             <br />
+  <em>The Astronomical Journal</em>, SUBMITTED
+    <div class="pub-clear"></div>
+  </li>
+</ul>
+
+<h2 id="contributed">Contributed</h2>
+
+<ul>
+  <li><em>Modeling the “Dark-matter Dominated” Dwarf Galaxy Segue 1</em> <img src="/assets/icons/DarkDetour.jpg" alt="Segue 1 paper thumbnail" class="pub-thumb pub-thumb--square" loading="lazy" />
+ <em>with a Supermassive Black Hole</em> <br />
+  Nathaniel Lujan, Karl Gebhardt, Richard Anantua, Owen Chase, Maya H. Debski, <strong><span style="text-decoration: underline;">Claire Finley</span></strong>, Loraine V. Gomez, Om Gupta, Alex J. Lawson, Izabella Marron, Zorayda Martinez, Connor A. Painter, Yonatan Sklansky, and Hayley West                                                             <br />
+  <em>The Astrophysical Journal Letters</em>, October 2025                                                                   <br />
+  <span style="border: 1px solid; padding: 0 0.35em; border-radius: 0.2em; font-size: 0.9em; white-space: nowrap;"><a href="https://doi.org/10.3847/2041-8213/ae0b4f">DOI</a></span>
+    <div class="pub-clear"></div>
+  </li>
 </ul>
 
 <h3 id="profiles">Profiles</h3>
 
 <ul>
+  <li>ADS: <a href="https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0002-9884-9584">Claire O. Finley</a></li>
   <li>ORCID: <a href="https://orcid.org/0000-0002-9884-9584">0000-0002-9884-9584</a></li>
 </ul>
 
@@ -595,183 +608,6 @@ Code for integrating CloudFlare's email protection with Hydejack's single page a
         }
     }()
   });
-</script>
-
-<script>
-  (function () {
-    function normalizeText(value) {
-      return (value || '').toLowerCase().trim();
-    }
-
-    function scoreResult(entry, tokens) {
-      let score = 0;
-      const title = normalizeText(entry.title);
-      const path = normalizeText(entry.path);
-      const body = normalizeText(entry.body);
-
-      for (let i = 0; i < tokens.length; i += 1) {
-        const token = tokens[i];
-        if (title.indexOf(token) >= 0) score += 10;
-        if (path.indexOf(token) >= 0) score += 6;
-        if (body.indexOf(token) >= 0) score += 1;
-      }
-
-      return score;
-    }
-
-    async function buildTopSearchIndex() {
-      if (window.__topSearchIndexPromise) {
-        return window.__topSearchIndexPromise;
-      }
-
-      window.__topSearchIndexPromise = (async function () {
-        try {
-          const response = await fetch('/sitemap.xml', { credentials: 'same-origin' });
-          if (!response.ok) return [];
-
-          const sitemapXml = await response.text();
-          const parser = new DOMParser();
-          const sitemapDoc = parser.parseFromString(sitemapXml, 'application/xml');
-          const locNodes = Array.from(sitemapDoc.querySelectorAll('url > loc'));
-
-          const urls = locNodes
-            .map(function (node) { return (node.textContent || '').trim(); })
-            .filter(function (value) { return value.length > 0; })
-            .map(function (value) { return new URL(value, window.location.origin).href; })
-            .filter(function (href) {
-              const pathname = new URL(href).pathname;
-              return pathname.indexOf('/assets/') !== 0 && pathname !== '/feed.xml' && pathname !== '/robots.txt' && pathname !== '/sitemap.xml';
-            });
-
-          const pages = await Promise.all(urls.map(async function (href) {
-            try {
-              const pageResponse = await fetch(href, { credentials: 'same-origin' });
-              if (!pageResponse.ok) return null;
-
-              const html = await pageResponse.text();
-              const pageDoc = parser.parseFromString(html, 'text/html');
-              const title = (pageDoc.querySelector('title') && pageDoc.querySelector('title').textContent) || '';
-              const main = pageDoc.querySelector('main') || pageDoc.body;
-              const body = ((main && main.textContent) || '').replace(/\s+/g, ' ').trim();
-              const path = new URL(href).pathname;
-
-              return { href: href, path: path, title: title, body: body };
-            } catch (error) {
-              return null;
-            }
-          }));
-
-          return pages.filter(function (item) { return item !== null; });
-        } catch (error) {
-          return [];
-        }
-      })();
-
-      return window.__topSearchIndexPromise;
-    }
-
-    async function openBuiltInSearch(query) {
-      const initialInput = document.getElementById('_search-input');
-      if (initialInput) {
-        initialInput.focus();
-        initialInput.value = query;
-        initialInput.dispatchEvent(new Event('input', { bubbles: true }));
-        return true;
-      }
-
-      if (window.location.hash !== '#_search-input') {
-        window.location.hash = '_search-input';
-      }
-
-      for (let attempt = 0; attempt < 20; attempt += 1) {
-        await new Promise(function (resolve) { window.setTimeout(resolve, 60); });
-        const searchInput = document.getElementById('_search-input');
-        if (searchInput) {
-          searchInput.focus();
-          searchInput.value = query;
-          searchInput.dispatchEvent(new Event('input', { bubbles: true }));
-          return true;
-        }
-      }
-
-      return false;
-    }
-
-    async function runFallbackSiteSearch(query) {
-      const trimmedQuery = query.trim();
-      if (!trimmedQuery) return;
-
-      const tokens = normalizeText(trimmedQuery).split(/\s+/).filter(function (token) {
-        return token.length > 0;
-      });
-      if (!tokens.length) return;
-
-      const index = await buildTopSearchIndex();
-      let bestEntry = null;
-      let bestScore = 0;
-
-      for (let i = 0; i < index.length; i += 1) {
-        const entry = index[i];
-        const score = scoreResult(entry, tokens);
-        if (score > bestScore) {
-          bestScore = score;
-          bestEntry = entry;
-        }
-      }
-
-      if (bestEntry) {
-        window.location.assign(bestEntry.href);
-        return;
-      }
-
-      const host = window.location.hostname;
-      const externalQuery = encodeURIComponent('site:' + host + ' ' + trimmedQuery);
-      window.location.assign('https://duckduckgo.com/?q=' + externalQuery);
-    }
-
-    function injectTopSearch() {
-      const navBtnBar = document.querySelector('#_navbar .nav-btn-bar');
-      if (!navBtnBar || navBtnBar.querySelector('.top-search-form')) return;
-
-      const form = document.createElement('form');
-      form.className = 'top-search-form';
-      form.setAttribute('role', 'search');
-
-      const input = document.createElement('input');
-      input.type = 'search';
-      input.className = 'top-search-input';
-      input.placeholder = 'Search…';
-      input.setAttribute('aria-label', 'Search site');
-
-      form.appendChild(input);
-      navBtnBar.appendChild(form);
-
-      form.addEventListener('submit', async function (event) {
-        event.preventDefault();
-        const query = input.value.trim();
-        if (!query) return;
-
-        const openedBuiltInSearch = await openBuiltInSearch(query);
-        if (!openedBuiltInSearch) {
-          await runFallbackSiteSearch(query);
-        }
-      });
-
-      buildTopSearchIndex();
-    }
-
-    const pushState = document.getElementById('_pushState');
-    if (pushState) {
-      pushState.addEventListener('load', injectTopSearch);
-      pushState.addEventListener('hy-push-state-after', injectTopSearch);
-    }
-
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', injectTopSearch);
-    } else {
-      injectTopSearch();
-    }
-  })();
 </script>
 
 

@@ -100,6 +100,28 @@ article.page.mb6:has(.homepage-intro) > header .page-title {
   font-size: 1.08rem;
 }
 
+.pub-thumb {
+  float: right;
+  height: auto;
+  margin-left: 1rem;
+  margin-bottom: 0.35rem;
+  border-radius: 0.25rem;
+}
+
+.pub-thumb--wide {
+  width: 380px;
+  max-width: 65%;
+}
+
+.pub-thumb--square {
+  width: 210px;
+  max-width: 45%;
+}
+
+.pub-clear {
+  clear: both;
+}
+
 .research-section {
   display: block;
 }
