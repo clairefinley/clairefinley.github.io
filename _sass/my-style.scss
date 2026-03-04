@@ -172,14 +172,22 @@ article.page.mb6:has(.homepage-intro) > header .page-title {
 }
 
 h2#summary {
-  margin-top: 0.35rem;
+  margin-top: 0;
+}
+
+.research-section--summary ul {
+  margin-bottom: 2.8rem;
 }
 
 .research-section-divider--summary {
-  margin-top: 0.8rem;
+  margin-top: 0.3rem;
 }
 
 .research-section-divider + h2 {
+  margin-top: 0.4rem;
+}
+
+.research-section-divider + h3 {
   margin-top: 0.4rem;
 }
 

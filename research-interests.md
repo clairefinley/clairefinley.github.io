@@ -2,9 +2,7 @@
 layout: page
 title: Research Interests 
 ---
-
-## Summary
-
+## <span style="text-decoration: underline;">Summary</span>
 <div class="research-section research-section--summary">
 	<div class="research-section-content">
 		<p>My research centers on giant planet formation and evolution, with particular focus on addressing:</p>
@@ -19,7 +17,9 @@ title: Research Interests
 
 <div class="research-section-divider research-section-divider--summary" aria-hidden="true"></div>
 
-## Wide-Orbit Planet SR 12 c: The Broadest-Wavelength Coverage SED of a Giant Planet
+## <span style="text-decoration: underline;">Projects</span>
+
+### Wide-Orbit Planet SR 12 c: The Broadest-Wavelength Coverage SED of a Giant Planet
 
 <div class="research-section">
 	<div class="research-section-media">
@@ -35,7 +35,7 @@ title: Research Interests
 
 <div class="research-section-divider" aria-hidden="true"></div>
 
-## Synthesizing Accretion and Circumplanetary Disk Properties for a Sample
+### Synthesizing Accretion and Circumplanetary Disk Properties for a Sample
 
 <div class="research-section">
 	<div class="research-section-media">
@@ -53,7 +53,7 @@ title: Research Interests
 
 <div class="research-section-divider" aria-hidden="true"></div>
 
-## Parent Volatile Composition of Comet 41P/Tuttle-Giacobini-Kresák
+### Parent Volatile Composition of Comet 41P/Tuttle-Giacobini-Kresák
 
 <div class="research-section research-section--no-divider">
 	<div class="research-section-media">

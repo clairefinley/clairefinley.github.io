@@ -25,8 +25,7 @@ title:                 Claire Finley
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Personal website for astronomy graduate student Claire Finley.
 
 # A shorter description for the sidebar.
 tagline:               Third-year graduate student in Astronomy at The University of Texas at Austin
@@ -46,7 +45,7 @@ favicon:               /assets/icons/favicon-planet.svg
 author:
   # Used by `jekyll-feed`:
   name:                <Claire> <Finley>
-  email:               <clairefinley@ucsb.edu>
+  email:               <cfinley@utexas.edu>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
