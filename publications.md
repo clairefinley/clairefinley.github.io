@@ -1,27 +1,24 @@
 ---
 layout: page
-title: Publications
-description: Peer-reviewed publications, ordered most-to-least recent.
+title: Education & Awards
+description: Summary of education and awards.
 ---
 
-## First-authored
+## <span style="text-decoration: underline;">Education</span> 
 
-- *Ultraviolet Imaging of SR 12 c with HST/WFC3:* <img src="/assets/icons/tile%20comb.png" alt="SR 12 c paper thumbnail" class="pub-thumb pub-thumb--wide" loading="lazy" />
- *Accretion and Variability of a Giant Planet at the End Stages of Growth*   
-    <strong><span style="text-decoration: underline;">Claire O. Finley</span></strong>, Brendan P. Bowler, Ya-Lin Wu, Adam L. Kraus, Yifan Zhou, Yuhiko Aoyama, William Best, Ian Czekala, Catherine C. Espaillat, Katherine B. Follette, Gregory J. Herczeg, Raquel A. Martinez, Connor E. Robinson, Quang H. Tran, and Kimberley Ward-Duong                                                               
-    *The Astronomical Journal*, SUBMITTED
-    <div class="pub-clear"></div>
+- **Ph.D. Astronomy**, The University of Texas at Austin (August 2023 - Present)  
+	Advisor: Dr. Brendan P. Bowler
+- **M.A. Astronomy**, The University of Texas at Austin (December 2025)  
+	Thesis: *Tracing Accretion and Variability in the Young Giant Planet SR 12 c*  
+	Advisor: Dr. Brendan P. Bowler
+- **B.S. Astronomy and Astrophysics**, Villanova University (May 2023)  
+	Minors in Physics and Art History
 
-## Contributed
+<div class="research-section-divider" aria-hidden="true" style="margin-bottom: 0.75rem;"></div>
 
-- *Modeling the “Dark-matter Dominated” Dwarf Galaxy Segue 1* <img src="/assets/icons/DarkDetour.jpg" alt="Segue 1 paper thumbnail" class="pub-thumb pub-thumb--square" loading="lazy" />
- *with a Supermassive Black Hole*   
-    Nathaniel Lujan, Karl Gebhardt, Richard Anantua, Owen Chase, Maya H. Debski, <strong><span style="text-decoration: underline;">Claire Finley</span></strong>, Loraine V. Gomez, Om Gupta, Alex J. Lawson, Izabella Marron, Zorayda Martinez, Connor A. Painter, Yonatan Sklansky, and Hayley West                                                               
-    *The Astrophysical Journal Letters*, October 2025                                                                     
-    <span style="border: 1px solid; padding: 0 0.35em; border-radius: 0.2em; font-size: 0.9em; white-space: nowrap;"><a href="https://doi.org/10.3847/2041-8213/ae0b4f">DOI</a></span>
-    <div class="pub-clear"></div>
+## <span style="text-decoration: underline;">Awards and Honors</span>
 
-### Profiles
-
-- ADS: [Claire O. Finley](https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0002-9884-9584)
-- ORCID: [0000-0002-9884-9584](https://orcid.org/0000-0002-9884-9584)
+- **Jason A. Cardelli Memorial Award for Undergraduate Research** (April 2023)
+- **Sigma Pi Sigma Physics Honor Society** (February 2023)
+- **John Mather Nobel Scholarship** (July 2022)
+- **Certificate of Achievement in Ethical Leadership** (November 2020)

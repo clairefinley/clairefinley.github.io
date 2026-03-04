@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Interests 
+title: Research
 ---
 ## <span style="text-decoration: underline;">Summary</span>
 <div class="research-section research-section--summary">
@@ -69,4 +69,35 @@ title: Research Interests
             mixing ratios for several major hydrogen and carbon-based volatile species in 41P and compared to previous near-IR studies, finding relative enrichment of C<sub>2</sub>H<sub>6</sub> (ethane) and depletion of H<sub>2</sub>CO (formaldehyde). This variation between agreement with average JFC abundances and average OCC abundances indicates that there may have been very efficient hydrogenation reactions on the dust surface in the location where 41P formed, complicating the picture of the comet's formation history. This paper (Finley et al. 2026b) is currently in preparation to be submitted to the Planetary Science Journal (PSJ).
 		</ul>
 	</div>
+</div>
+
+<div class="research-section-divider" aria-hidden="true"></div>
+
+## <span style="text-decoration: underline;">Observing Programs</span>
+
+### As Co-Investigator
+
+<div class="talk-cards" role="list">
+	<article class="talk-card" role="listitem">
+		<div class="talk-card-meta-row">
+			<span class="talk-card-chip">HST</span>
+			<span class="talk-card-date">Cycle 33</span>
+		</div>
+		<h3 class="talk-card-title">GO 18139</h3>
+		<p class="talk-card-venue">PI Jiang: "Tracing Accretion in the Planetary Regime: A Comprehensive UV/Optical Survey of the Late Stages of Planet Formation"</p>
+		<p class="talk-card-actions">60 orbits awarded</p>
+	</article>
+
+	<article class="talk-card" role="listitem">
+		<div class="talk-card-meta-row">
+			<span class="talk-card-chip">JWST</span>
+			<span class="talk-card-date">Cycle 4</span>
+		</div>
+		<h3 class="talk-card-title">Selected Proposals</h3>
+		<p class="talk-card-venue"><em>GO 7538</em>, PI Cugno: "Giants in the making: the composition of circumplanetary disks with JWST MIRI-MRS"</p>
+		<p class="talk-card-actions">59.2 hours awarded</p>
+		<div class="research-section-divider" aria-hidden="true" style="margin: 0.55rem 0 0.65rem;"></div>
+		<p class="talk-card-venue"><em>GO 9091</em>, PI Morgan: "Imaging a Hidden Super-Jupiter Accelerating its Metal-rich M-dwarf Host"</p>
+		<p class="talk-card-actions">16.1 hours awarded</p>
+	</article>
 </div>

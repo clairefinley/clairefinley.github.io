@@ -10,6 +10,11 @@
 		<path d="M28 29V61"/>
 	</g>
 
+	<g stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+		<path d="M15 71L9 77L15 83"/>
+		<path d="M9 77H37"/>
+	</g>
+
 	<g>
 		<g clip-path="url(#clipPath84)" transform="matrix(0.656127, 0, 0, -0.656127, -314.840363, 315.96228)">
 			<g>

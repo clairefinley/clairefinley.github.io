@@ -51,12 +51,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Research Interests
+  - title:             About Me
+    url:               /
+  - title:             Research
     url:               /research-interests/
-  - title:             Talks
-    url:               /talks/
-  - title:             Publications
-    url:               /publications/
+  - title:             Publications & Talks
+    url:               /publications-talks/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
