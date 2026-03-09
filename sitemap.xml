@@ -1,28 +1,24 @@
----
-layout: null
-permalink: /sitemap.xml
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>{{ site.url }}/</loc>
+    <loc>https://clairefinley.github.io/</loc>
   </url>
   <url>
-    <loc>{{ site.url }}/about/</loc>
+    <loc>https://clairefinley.github.io/about/</loc>
   </url>
   <url>
-    <loc>{{ site.url }}/research-interests/</loc>
+    <loc>https://clairefinley.github.io/research-interests/</loc>
   </url>
   <url>
-    <loc>{{ site.url }}/publications/</loc>
+    <loc>https://clairefinley.github.io/publications/</loc>
   </url>
   <url>
-    <loc>{{ site.url }}/publications-talks/</loc>
+    <loc>https://clairefinley.github.io/publications-talks/</loc>
   </url>
   <url>
-    <loc>{{ site.url }}/posts/</loc>
+    <loc>https://clairefinley.github.io/posts/</loc>
   </url>
   <url>
-    <loc>{{ site.url }}/google01bb36c0699566af.html</loc>
+    <loc>https://clairefinley.github.io/google01bb36c0699566af.html</loc>
   </url>
 </urlset>
