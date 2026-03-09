@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clairefinley.github.io/sitemap.xml

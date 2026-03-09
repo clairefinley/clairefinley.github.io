@@ -96,8 +96,6 @@ GEM
       sass-embedded (~> 1.75)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
-    jekyll-sitemap (1.4.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-theme-hydejack (9.2.1)
       jekyll (>= 3.8, < 5.0)
       jekyll-include-cache (~> 0.2)
@@ -202,7 +200,6 @@ DEPENDENCIES
   jekyll-readme-index
   jekyll-redirect-from
   jekyll-seo-tag
-  jekyll-sitemap
   jekyll-theme-hydejack (~> 9.1)
   jekyll-titles-from-headings
   kramdown-math-katex
