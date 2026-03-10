@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-03-06T17:51:19+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Claire Finley</title><subtitle>Personal website for astronomy graduate student Claire Finley.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-03-10T14:02:59+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Claire Finley</title><subtitle>Personal website for astronomy graduate student Claire Finley.
 </subtitle><author><name>&lt;Claire&gt; &lt;Finley&gt;</name><email>&lt;cfinley@utexas.edu&gt;</email></author><entry><title type="html">X Marks the Spot in Hydejack 9.2</title><link href="http://localhost:4000/example/2024-09-08-x-marks-the-spot-in-hydejack-9-2/" rel="alternate" type="text/html" title="X Marks the Spot in Hydejack 9.2" /><published>2024-09-08T00:00:00+00:00</published><updated>2026-02-24T23:50:22+00:00</updated><id>http://localhost:4000/example/x-marks-the-spot-in-hydejack-9-2</id><content type="html" xml:base="http://localhost:4000/example/2024-09-08-x-marks-the-spot-in-hydejack-9-2/"><![CDATA[<h2 id="new-social-media-icons">New Social Media Icons</h2>
 
 <p>Lots of things have changed in the world of social media since the last release. To bring Hydejack up to date, the default logo for Twitter has changed:</p>
@@ -73,7 +73,7 @@
   </tbody>
 </table>
 
-<p>If your perferred network is missing, note that you can always <a href="/docs/advanced/#adding-a-custom-social-media-icon">follow the steps to add custom icons</a> from the docs, which is what I did for this release.</p>
+<p>If your perferred network is missing, note that you can always <a href="../../docs/advanced.md#adding-a-custom-social-media-icon">follow the steps to add custom icons</a> from the docs, which is what I did for this release.</p>
 
 <h2 id="dark-mode-is-now-free">Dark Mode is Now Free</h2>
 <p>When I first added dark mode to Hydejack it was still considered a novelty. 
@@ -83,11 +83,11 @@ starting with Hydejack 9.2, dark mode is included in all versions of Hydejack.</
 
 <h2 id="updated-docs">Updated Docs</h2>
 <p>The documentation has been updated with a focus on deployment via GitHub Actions and CI pipelines. 
-I’ve added a chapter on how to <a href="/docs/deploy/" class="heading flip-title">Deploy</a> and updated many of the existing chapters.</p>
+I’ve added a chapter on how to <a href="../../docs/deploy.md" class="heading flip-title">Deploy</a> and updated many of the existing chapters.</p>
 
 <p>The deployment experience for <strong>PRO customers</strong> has also been improved. You are now automatically added to a “PRO Customers” team on GitHub if you provide a GitHub username during checkout (existing customers can request an invite through <a href="mailto:mail@hydejack.com">mail@hydejack.com</a>).
 Members of this team have read access to the pro repository, which allows the theme to be fetched during a CI run. 
-For detail, check out the new <a href="/docs/deploy/" class="heading flip-title">Deploy</a> chapter.</p>
+For detail, check out the new <a href="../../docs/deploy.md" class="heading flip-title">Deploy</a> chapter.</p>
 
 <h2 id="google-fonts-off-by-default">Google Fonts Off by Default</h2>
 <p>Google Fonts are now turned off by default in the starter kits, but remain in use on hydejack.com for visual continuity. All associated options continue to work as they did before. Only new users have to enable them in the config file if they want to match the look of hydejack.com.</p>
@@ -104,7 +104,7 @@ No Google product feels appropriate as a default option for an ownership and sel
 
 <p>On a related note, I’ve also decided against updating the included Google Analytics script, in part because the upgrade path is incomprehensible, but also due the the same privacy concerns that make Google Fonts a bad default option. I recommend independent analytics services like 
 <a href="https://plausible.io">Plausible</a>, <a href="https://matomo.org/">Matomo</a> or maybe even <a href="https://counterscale.dev">Counterscale</a> (if you are a Cloudflare customer).
-You can include the tracking scripts by <a href="/docs/basics/#adding-custom-html-to-the-head">adding them as custom HTML</a>.</p>]]></content><author><name>&lt;Claire&gt; &lt;Finley&gt;</name><email>&lt;cfinley@utexas.edu&gt;</email></author><category term="example" /><summary type="html"><![CDATA[This feature release adds new social media icons for 2024 and makes dark mode available to everyone.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introducing Hydejack 9</title><link href="http://localhost:4000/example/2020-07-03-introducing-hydejack-9/" rel="alternate" type="text/html" title="Introducing Hydejack 9" /><published>2020-07-03T00:00:00+00:00</published><updated>2026-02-24T23:50:22+00:00</updated><id>http://localhost:4000/example/introducing-hydejack-9</id><content type="html" xml:base="http://localhost:4000/example/2020-07-03-introducing-hydejack-9/"><![CDATA[<p class="lead">Version 9 is the most complete version of Hydejack yet.</p>
+You can include the tracking scripts by <a href="../../docs/basics.md#adding-custom-html-to-the-head">adding them as custom HTML</a>.</p>]]></content><author><name>&lt;Claire&gt; &lt;Finley&gt;</name><email>&lt;cfinley@utexas.edu&gt;</email></author><category term="example" /><summary type="html"><![CDATA[This feature release adds new social media icons for 2024 and makes dark mode available to everyone.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introducing Hydejack 9</title><link href="http://localhost:4000/example/2020-07-03-introducing-hydejack-9/" rel="alternate" type="text/html" title="Introducing Hydejack 9" /><published>2020-07-03T00:00:00+00:00</published><updated>2026-02-24T23:50:22+00:00</updated><id>http://localhost:4000/example/introducing-hydejack-9</id><content type="html" xml:base="http://localhost:4000/example/2020-07-03-introducing-hydejack-9/"><![CDATA[<p class="lead">Version 9 is the most complete version of Hydejack yet.</p>
 
 <p><a href="#linking-in-style">Modernized</a> <a href="#whats-in-the-cards">design</a>, <a href="#ready-for-the-big-screen">big headlines</a>, big new features: <a href="#built-in-search">Built-In Search</a>, <a href="#sticky-table-of-contents">Sticky Table of Contents</a>, and <a href="#auto-hiding-navbar">Auto-Hiding Navbar</a>. That <a href="#and-much-more">and more</a> is Hydejack 9.</p>
 
@@ -135,7 +135,7 @@ You can include the tracking scripts by <a href="/docs/basics/#adding-custom-htm
 <p>Hydejack 9 now lets you use content cards for both projects and posts. 
 The cards have been redesigned with a new hover style and drop shadows and they retain their unique transition-to-next-page animations, which now also work on the <code class="language-plaintext highlighter-rouge">blog</code> layout. The new <code class="language-plaintext highlighter-rouge">grid</code> layout lets you do that.</p>
 
-<p>Good images are key to making the most out of content cards. For that reason, a <a href="/docs/basics/#adding-images">chapter on images</a> has been added to the documentation.</p>
+<p>Good images are key to making the most out of content cards. For that reason, a <a href="../../docs/basics.md#adding-images">chapter on images</a> has been added to the documentation.</p>
 
 <h2 id="built-in-search">Built-In Search</h2>
 
@@ -165,7 +165,7 @@ What’s unique about it is that it simply picks up the table of contents alread
   <li>…and the option to disable grouping projects by year.</li>
 </ul>
 
-<p>Read the the <a href="/CHANGELOG/" class="heading flip-title">CHANGELOG</a> for the full scope of features and improvements made in Hydejack 9.
+<p>Read the the <a href="../../CHANGELOG.md" class="heading flip-title">CHANGELOG</a> for the full scope of features and improvements made in Hydejack 9.
 Maybe just glance at it to confirm that it is indeed a pretty long list.</p>
 
 <h2 id="even-more-to-come">Even More to Come</h2>

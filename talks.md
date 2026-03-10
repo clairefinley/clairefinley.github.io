@@ -49,7 +49,7 @@ permalink: /publications-talks/
             <span class="talk-card-date">October 2025</span>
         </div>
         <h3 class="talk-card-title">Synthesizing Accretion and Circumplanetary Disk Properties of a Wide Orbit Planet with HST and JWST</h3>
-        <p class="talk-card-venue">51 Pegasi b: Cool Giant Planets and Their Systems<br>Observatoire de Haute Provence, France</p>
+        <p class="talk-card-venue">51 Peg b 30th Birthday: Cool Giant Planets and Their Systems<br>Observatoire de Haute Provence, France</p>
         <p class="talk-card-actions">
             <a class="talk-card-link" href="https://ohp2025.sciencesconf.org/data/pages/Finley_ohp2025_presentation.pdf">Slides</a>
         </p>
