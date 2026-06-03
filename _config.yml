@@ -28,7 +28,7 @@ description:           >
   Personal website for astronomy graduate student Claire Finley.
 
 # A shorter description for the sidebar.
-tagline:               Third-year graduate student in Astronomy at The University of Texas at Austin
+tagline:               Third-year graduate student in Astronomy at UC Santa Barbara
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,7 +45,7 @@ favicon:               /assets/icons/favicon-planet.svg
 author:
   # Used by `jekyll-feed`:
   name:                <Claire> <Finley>
-  email:               <cfinley@utexas.edu>
+  email:               <clairefinley@ucsb.edu>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
