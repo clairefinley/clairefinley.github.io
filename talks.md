@@ -14,7 +14,7 @@ permalink: /publications-talks/
 - *Ultraviolet Imaging of SR 12 c with HST/WFC3:* <img src="/assets/icons/tile%20comb.png" alt="SR 12 c paper thumbnail" class="pub-thumb pub-thumb--wide" loading="lazy" />
  *Accretion and Variability of a Giant Planet at the End Stages of Growth*   
     <strong><span style="text-decoration: underline;">Claire O. Finley</span></strong>, Brendan P. Bowler, Ya-Lin Wu, Adam L. Kraus, Yifan Zhou, Yuhiko Aoyama, William Best, Ian Czekala, Catherine C. Espaillat, Katherine B. Follette, Gregory J. Herczeg, Raquel A. Martinez, Connor E. Robinson, Quang H. Tran, and Kimberley Ward-Duong                                                               
-    *The Astronomical Journal*, SUBMITTED
+    *The Astronomical Journal*, ACCEPTED
     <div class="pub-clear"></div>
 
 #### Contributed
@@ -34,6 +34,15 @@ permalink: /publications-talks/
     <article class="talk-card" role="listitem">
         <div class="talk-card-meta-row">
             <span class="talk-card-chip">Conference</span>
+            <span class="talk-card-date">June 2026</span>
+        </div>
+        <h3 class="talk-card-title">Synthesizing Accretion and Circumplanetary Disk Properties of a Wide Orbit Planet with HST and JWST</h3>
+        <p class="talk-card-venue">Exoplanets VI<br>Porto, Portugal</p>
+    </article>
+
+    <article class="talk-card" role="listitem">
+        <div class="talk-card-meta-row">
+            <span class="talk-card-chip">Conference</span>
             <span class="talk-card-date">February 2026</span>
         </div>
         <h3 class="talk-card-title">Accretion and Circumplanetary Disk Properties of a Wide Orbit Planet with HST and JWST</h3>
@@ -49,7 +58,7 @@ permalink: /publications-talks/
             <span class="talk-card-date">October 2025</span>
         </div>
         <h3 class="talk-card-title">Synthesizing Accretion and Circumplanetary Disk Properties of a Wide Orbit Planet with HST and JWST</h3>
-        <p class="talk-card-venue">51 Peg b 30th Birthday: Cool Giant Planets and Their Systems<br>Observatoire de Haute Provence, France</p>
+        <p class="talk-card-venue">51 Peg b 30th Birthday: Cool Giant Planets and Their Systems<br>Observatoire de Haute-Provence, France</p>
         <p class="talk-card-actions">
             <a class="talk-card-link" href="https://ohp2025.sciencesconf.org/data/pages/Finley_ohp2025_presentation.pdf">Slides</a>
         </p>
