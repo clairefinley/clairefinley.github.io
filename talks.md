@@ -14,7 +14,7 @@ permalink: /publications-talks/
 - *Ultraviolet Imaging of SR 12 c with HST/WFC3:* <img src="/assets/icons/tile%20comb.png" alt="SR 12 c paper thumbnail" class="pub-thumb pub-thumb--wide" loading="lazy" />
  *Accretion and Variability of a Giant Planet at the End Stages of Growth*   
     <strong><span style="text-decoration: underline;">Claire O. Finley</span></strong>, Brendan P. Bowler, Ya-Lin Wu, Adam L. Kraus, Yifan Zhou, Yuhiko Aoyama, William Best, Ian Czekala, Catherine C. Espaillat, Katherine B. Follette, Gregory J. Herczeg, Raquel A. Martinez, Connor E. Robinson, Quang H. Tran, and Kimberley Ward-Duong                                                               
-    *The Astronomical Journal*, ACCEPTED
+    *The Astronomical Journal*, Volume 172, Issue 2, id.134, 15 pp.
     <div class="pub-clear"></div>
 
 #### Contributed

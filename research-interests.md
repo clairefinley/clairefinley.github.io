@@ -26,7 +26,7 @@ title: Research
 		<div class="research-section-image-block">
 			<img src="/assets/imgs/crop.png" alt="Spectral energy distribution for SR 12 c">
 		</div>
-		<div class="research-section-image-credit">Image credit: Finley et al. 2026 (accepted to AJ)</div>
+		<div class="research-section-image-credit">Image credit: Finley et al. 2026</div>
 	</div>
 	<div class="research-section-content">
 		<p>Many of the details of giant planet formation and evolution remain untested as there are few observational constraints on when gas giants grow through gas accretion. In my recently-submitted paper, we present new 0.2-0.7 µm UV-through-red optical imaging of the young (~2 Myr), wide-orbit planetary-mass companion SR 12 c from the Wide Field Camera 3 (WFC3) on board the Hubble Space Telescope. SR 12 c exhibits strong accretion-related continuum excess blueward of ~5000 Å and clear signs of the Balmer jump at 3646 Å. Modeling this excess with hot hydrogen slab models, we derive a total accretion luminosity and a mass accretion rate. Based on its mass of ~13 M<sub>Jup</sub> and age of 2 Myr, SR 12 c must have had a past accretion rate that was on average several orders of magnitude higher; it is now at the end stages of assembly. No accretion variability is evident over the month-long baseline of the WFC3 observations, but the Hα emission line strength decreases by 90% compared to the reported flux from five years earlier. We assemble the most complete spectral energy distribution of a young giant planet to date (above), spanning the UV through sub-mm wavelengths (0.2-880 µm). This adds SR 12 c to the small yet growing sample of planets with detailed accretion and disk constraints, which together are beginning to establish the diversity of timescales and physical processes governing the formation of giant planets. </p>
@@ -85,6 +85,9 @@ title: Research
 		<h3 class="talk-card-title">Cycle 33, GO 18139</h3>
 		<p class="talk-card-venue">PI Jiang: "Tracing Accretion in the Planetary Regime: A Comprehensive UV/Optical Survey of the Late Stages of Planet Formation"</p>
 		<p class="talk-card-actions">60 orbits awarded</p>
+		<h3 class="talk-card-title">Cycle 34, GO 18436</h3>
+		<p class="talk-card-venue">PI Jiang: "Imaging Six Young Planetary-Mass Companions with HST/WFC3-UVIS"</p>
+		<p class="talk-card-actions">12 orbits awarded</p>
 	</article>
 
 	<article class="talk-card" role="listitem">
